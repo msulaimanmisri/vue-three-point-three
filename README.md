@@ -1,29 +1,6 @@
-# lear
+## About this repository
+* This repository contains Vue.js code version 3.3.* (Rurouni Kenshin)
+* This repository also my playground to test the latest functionalities provided by Vue.
+* This small project deployed with Bootstrap CSS and using SPA's technologies.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![Example SPA Vue](https://i.imgur.com/eyVfJDS.png)
