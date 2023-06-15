@@ -1,9 +1,11 @@
 <script setup>
-import AboutUsPage from '../components/AboutUsPage.vue'
+import TitleComponent from '../components/TitleComponent.vue'
 </script>
 
 <template>
   <main>
-    <AboutUsPage />
+    <div class="container my-5 text-center">
+      <TitleComponent> About </TitleComponent>
+    </div>
   </main>
 </template>

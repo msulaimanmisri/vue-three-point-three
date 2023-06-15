@@ -1,9 +1,11 @@
 <script setup>
-import ServicesPage from '../components/ServicesPage.vue'
+import TitleComponent from '../components/TitleComponent.vue'
 </script>
 
 <template>
   <main>
-    <ServicesPage />
+    <div class="container my-5 text-center">
+      <TitleComponent> Services </TitleComponent>
+    </div>
   </main>
 </template>

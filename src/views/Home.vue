@@ -1,9 +1,11 @@
 <script setup>
-import HomePage from '../components/HomePage.vue'
+import TitleComponent from '../components/TitleComponent.vue'
 </script>
 
 <template>
   <main>
-    <HomePage />
+    <div class="my-5 text-center">
+      <TitleComponent>Home</TitleComponent>
+    </div>
   </main>
 </template>
